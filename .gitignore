@@ -1,0 +1,10 @@
+crash-reports/
+downloads/
+logs/
+command_history.txt
+realms_persistence.json
+usercache.json
+data/fabricDefaultResourcePacks.dat
+server.dat_old
+screenshots/
+flashback/
