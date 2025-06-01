@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.9.4.zip","continuity:default","file/LowOnFire 1.21.5.zip","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","file/Dramatic Skys Demo 1.5.3.33.zip","continuity:default","file/FreshAnimations_v1.9.4.zip","file/LowOnFire 1.21.5.zip"]
 incompatibleResourcePacks:["worldedit","yet_another_config_lib_v3"]
 lastServer:west.nabte.net
 lang:en_us
@@ -141,7 +141,7 @@ key_axiom.keybind.toggle_bulldozer_cap:key.keyboard.unknown
 key_axiom.keybind.nudge_with_scroll:key.keyboard.unknown
 key_axiom.keybind.nudge_forwards:key.keyboard.unknown
 key_axiom.keybind.nudge_backwards:key.keyboard.unknown
-key_key.coordinatesdisplay.hudenabled:key.keyboard.h
+key_key.coordinatesdisplay.hudenabled:key.keyboard.backslash
 key_key.coordinatesdisplay.coordinatesgui:key.keyboard.unknown
 key_key.coordinatesdisplay.copypos:key.keyboard.unknown
 key_key.coordinatesdisplay.sendpos:key.keyboard.unknown
